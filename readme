@@ -1,0 +1,7 @@
+My methodology/process during the OSCP:
+
+25 (BoF) (Root) --> 10 (Stuck) --> 20 (Root) --> 20 (Root) --> 10 (Root) --> 25 (User)
+Time remaining: 16 hours. Total score: 4.5/5
+Breaks taken: 5-10 minute breaks whenever I got user on a machine.
+15-20 minute break every time I completed a box.
+Didn’t take any notes at all, screen recorded everything instead for reporting.
